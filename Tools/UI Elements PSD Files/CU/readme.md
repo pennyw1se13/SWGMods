@@ -1,0 +1,1 @@
+PSD's of ui_rebel_final and ui_rebel_final_space. Every thing has it's own layer for editing and a color guide background sorting the different sections. I have labeled what I could however it is not a whole lot, there is a lot that still needs to be filled in as to what is what. Will update as I go along.
